@@ -1,0 +1,427 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Alice",
+        "age": 25,
+        "gender": "Female",
+        "location": "New York, USA",
+        "occupation": "Software Engineer",
+        "interests": {
+          "sports": ["basketball", "tennis"],
+          "music": ["pop", "rock"],
+          "movies": ["comedy", "drama"],
+          "technology": ["programming", "gadgets"],
+          "literature": ["fiction", "mystery"],
+          "hobbies": ["photography", "gaming"]
+        },
+        "preferences": {
+          "conversation_topics": ["technology trends", "travel"],
+          "communication_style": "casual",
+          "interaction_frequency": "daily"
+        },
+        "past_interaction_history": {
+          "previous_connections": [2, 3],
+          "conversation_duration": "30 minutes",
+          "shared_topics": ["music", "movies"],
+          "user_ratings": {
+            "positive": 4,
+            "negative": 1
+          }
+        },
+        "personal_preferences": {
+          "privacy_settings": {
+            "hide_location": false,
+            "hide_age": false
+          },
+          "notification_preferences": "email"
+        },
+        "social_media_integration": {
+          "facebook_likes": ["TechCrunch", "NY Times"],
+          "twitter_interests": ["#programming", "#photography"],
+          "instagram_preferences": ["photos", "stories"]
+        }
+      },
+      {
+        "id": 2,
+        "name": "Bob",
+        "age": 30,
+        "gender": "Male",
+        "location": "Los Angeles, USA",
+        "occupation": "Graphic Designer",
+        "interests": {
+          "sports": ["soccer"],
+          "music": ["hip-hop", "jazz"],
+          "movies": ["action", "science fiction"],
+          "technology": ["software"],
+          "literature": ["non-fiction"],
+          "hobbies": ["cooking", "gardening"]
+        },
+        "preferences": {
+          "conversation_topics": ["food", "current events"],
+          "communication_style": "humorous",
+          "interaction_frequency": "weekly"
+        },
+        "past_interaction_history": {
+          "previous_connections": [1],
+          "conversation_duration": "45 minutes",
+          "shared_topics": ["food", "technology"],
+          "user_ratings": {
+            "positive": 3,
+            "negative": 0
+          }
+        },
+        "personal_preferences": {
+          "privacy_settings": {
+            "hide_location": true,
+            "hide_age": true
+          },
+          "notification_preferences": "push notifications"
+        },
+        "social_media_integration": {
+          "facebook_likes": ["Food Network", "National Geographic"],
+          "twitter_interests": ["#cooking", "#science"],
+          "instagram_preferences": ["videos"]
+        }
+      },
+      {
+        "id": 3,
+        "name": "Charlie",
+        "age": 28,
+        "gender": "Male",
+        "location": "London, UK",
+        "occupation": "Marketing Manager",
+        "interests": {
+          "sports": ["cricket", "rugby"],
+          "music": ["indie", "alternative"],
+          "movies": ["thriller", "documentary"],
+          "technology": ["digital marketing", "social media"],
+          "literature": ["biography", "historical fiction"],
+          "hobbies": ["traveling", "reading"]
+        },
+        "preferences": {
+          "conversation_topics": ["marketing trends", "travel experiences"],
+          "communication_style": "formal",
+          "interaction_frequency": "occasionally"
+        },
+        "past_interaction_history": {
+          "previous_connections": [4, 5],
+          "conversation_duration": "20 minutes",
+          "shared_topics": ["travel", "marketing"],
+          "user_ratings": {
+            "positive": 5,
+            "negative": 0
+          }
+        },
+        "personal_preferences": {
+          "privacy_settings": {
+            "hide_location": false,
+            "hide_age": true
+          },
+          "notification_preferences": "push notifications"
+        },
+        "social_media_integration": {
+          "facebook_likes": ["Lonely Planet", "Marketing Week"],
+          "twitter_interests": ["#travel", "#marketing"],
+          "instagram_preferences": ["travel photos", "marketing tips"]
+        }
+      },
+      {
+        "id": 4,
+        "name": "David",
+        "age": 35,
+        "gender": "Male",
+        "location": "Toronto, Canada",
+        "occupation": "Teacher",
+        "interests": {
+          "sports": ["hockey", "skiing"],
+          "music": ["classical", "jazz"],
+          "movies": ["drama", "romance"],
+          "technology": ["education technology", "coding for kids"],
+          "literature": ["educational", "poetry"],
+          "hobbies": ["hiking", "cooking"]
+        },
+        "preferences": {
+          "conversation_topics": ["education", "outdoor activities"],
+          "communication_style": "casual",
+          "interaction_frequency": "weekly"
+        },
+        "past_interaction_history": {
+          "previous_connections": [3],
+          "conversation_duration": "40 minutes",
+          "shared_topics": ["education", "outdoor activities"],
+          "user_ratings": {
+            "positive": 4,
+            "negative": 1
+          }
+        },
+        "personal_preferences": {
+          "privacy_settings": {
+            "hide_location": false,
+            "hide_age": false
+          },
+          "notification_preferences": "email"
+        },
+        "social_media_integration": {
+          "facebook_likes": ["National Geographic", "TED Talks"],
+          "twitter_interests": ["#education", "#hiking"],
+          "instagram_preferences": ["nature photography", "cooking videos"]
+        }
+      },
+      {
+        "id": 5,
+        "name": "Emma",
+        "age": 22,
+        "gender": "Female",
+        "location": "Sydney, Australia",
+        "occupation": "Student",
+        "interests": {
+          "sports": ["surfing", "yoga"],
+          "music": ["pop", "EDM"],
+          "movies": ["comedy", "adventure"],
+          "technology": ["social media", "app development"],
+          "literature": ["fiction", "young adult"],
+          "hobbies": ["painting", "traveling"]
+        },
+        "preferences": {
+          "conversation_topics": ["social media trends", "adventure travel"],
+          "communication_style": "casual",
+          "interaction_frequency": "daily"
+        },
+        "past_interaction_history": {
+          "previous_connections": [],
+          "conversation_duration": "",
+          "shared_topics": [],
+          "user_ratings": {
+            "positive": 0,
+            "negative": 0
+          }
+        },
+        "personal_preferences": {
+          "privacy_settings": {
+            "hide_location": false,
+            "hide_age": false
+          },
+          "notification_preferences": "push notifications"
+        },
+        "social_media_integration": {
+          "facebook_likes": ["Travel + Leisure", "Instagram"],
+          "twitter_interests": ["#socialmedia", "#adventure"],
+          "instagram_preferences": ["travel photos", "artwork"]
+        }
+      },
+      {
+        "id": 6,
+        "name": "Fiona",
+        "age": 27,
+        "gender": "Female",
+        "location": "Berlin, Germany",
+        "occupation": "Graphic Designer",
+        "interests": {
+          "sports": ["cycling", "hiking"],
+          "music": ["indie", "folk"],
+          "movies": ["drama", "romantic comedy"],
+          "technology": ["graphic design", "photography"],
+          "literature": ["biography", "self-help"],
+          "hobbies": ["drawing", "cooking"]
+        },
+        "preferences": {
+          "conversation_topics": ["art", "personal development"],
+          "communication_style": "informal",
+          "interaction_frequency": "weekly"
+        },
+        "past_interaction_history": {
+          "previous_connections": [],
+          "conversation_duration": "",
+          "shared_topics": [],
+          "user_ratings": {
+            "positive": 0,
+            "negative": 0
+          }
+        },
+        "personal_preferences": {
+          "privacy_settings": {
+            "hide_location": false,
+            "hide_age": false
+          },
+          "notification_preferences": "email"
+        },
+        "social_media_integration": {
+          "facebook_likes": ["Behance", "Medium"],
+          "twitter_interests": ["#design", "#personaldevelopment"],
+          "instagram_preferences": ["design inspiration", "cooking recipes"]
+        }
+      },
+      {
+        "id": 7,
+        "name": "George",
+        "age": 40,
+        "gender": "Male",
+        "location": "Tokyo, Japan",
+        "occupation": "Business Analyst",
+        "interests": {
+          "sports": ["baseball", "sumo wrestling"],
+          "music": ["classical", "traditional Japanese"],
+          "movies": ["historical", "anime"],
+          "technology": ["data analysis", "AI"],
+          "literature": ["historical fiction", "manga"],
+          "hobbies": ["gardening", "traveling"]
+        },
+        "preferences": {
+          "conversation_topics": ["business trends", "Japanese culture"],
+          "communication_style": "formal",
+          "interaction_frequency": "occasionally"
+        },
+        "past_interaction_history": {
+          "previous_connections": [8],
+          "conversation_duration": "25 minutes",
+          "shared_topics": ["business", "travel"],
+          "user_ratings": {
+            "positive": 4,
+            "negative": 0
+          }
+        },
+        "personal_preferences": {
+          "privacy_settings": {
+            "hide_location": false,
+            "hide_age": false
+          },
+          "notification_preferences": "push notifications"
+        },
+        "social_media_integration": {
+          "facebook_likes": ["Japan Times", "Nikkei Asian Review"],
+          "twitter_interests": ["#business", "#Japan"],
+          "instagram_preferences": ["Japanese cuisine", "travel photography"]
+        }
+      },
+      {
+        "id": 8,
+        "name": "Hannah",
+        "age": 29,
+        "gender": "Female",
+        "location": "Paris, France",
+        "occupation": "Chef",
+        "interests": {
+          "sports": ["fencing", "sailing"],
+          "music": ["jazz", "French chanson"],
+          "movies": ["romantic", "foreign language"],
+          "technology": ["culinary arts", "food science"],
+          "literature": ["cookbooks", "French literature"],
+          "hobbies": ["baking", "wine tasting"]
+        },
+        "preferences": {
+          "conversation_topics": ["culinary arts", "traveling"],
+          "communication_style": "casual",
+          "interaction_frequency": "weekly"
+        },
+        "past_interaction_history": {
+          "previous_connections": [7],
+          "conversation_duration": "35 minutes",
+          "shared_topics": ["food", "travel"],
+          "user_ratings": {
+            "positive": 5,
+            "negative": 0
+          }
+        },
+        "personal_preferences": {
+          "privacy_settings": {
+            "hide_location": false,
+            "hide_age": false
+          },
+          "notification_preferences": "email"
+        },
+        "social_media_integration": {
+          "facebook_likes": ["Le Fooding", "French Cooking Academy"],
+          "twitter_interests": ["#food", "#travel"],
+          "instagram_preferences": ["food photography", "wine tasting events"]
+        }
+      },
+      {
+        "id": 9,
+        "name": "Ian",
+        "age": 32,
+        "gender": "Male",
+        "location": "Dubai, UAE",
+        "occupation": "Entrepreneur",
+        "interests": {
+          "sports": ["golf", "formula 1"],
+          "music": ["electronic", "trance"],
+          "movies": ["action", "sci-fi"],
+          "technology": ["startups", "blockchain"],
+          "literature": ["business", "science fiction"],
+          "hobbies": ["investing", "traveling"]
+        },
+        "preferences": {
+          "conversation_topics": ["business ventures", "tech innovations"],
+          "communication_style": "intellectual",
+          "interaction_frequency": "daily"
+        },
+        "past_interaction_history": {
+          "previous_connections": [],
+          "conversation_duration": "",
+          "shared_topics": [],
+          "user_ratings": {
+            "positive": 0,
+            "negative": 0
+          }
+        },
+        "personal_preferences": {
+          "privacy_settings": {
+            "hide_location": false,
+            "hide_age": false
+          },
+          "notification_preferences": "push notifications"
+        },
+        "social_media_integration": {
+          "facebook_likes": ["Entrepreneur", "TechCrunch Middle East"],
+          "twitter_interests": ["#entrepreneurship", "#blockchain"],
+          "instagram_preferences": ["luxury travel", "business events"]
+        }
+      },
+      {
+        "id": 10,
+        "name": "Julia",
+        "age": 26,
+        "gender": "Female",
+        "location": "Rio de Janeiro, Brazil",
+        "occupation": "Event Planner",
+        "interests": {
+          "sports": ["samba", "beach volleyball"],
+          "music": ["samba", "Latin pop"],
+          "movies": ["musical", "documentary"],
+          "technology": ["event management software", "social media"],
+          "literature": ["cultural", "travel guides"],
+          "hobbies": ["dancing", "beachcombing"]
+        },
+        "preferences": {
+          "conversation_topics": ["event planning", "cultural experiences"],
+          "communication_style": "casual",
+          "interaction_frequency": "occasionally"
+        },
+        "past_interaction_history": {
+          "previous_connections": [],
+          "conversation_duration": "",
+          "shared_topics": [],
+          "user_ratings": {
+            "positive": 0,
+            "negative": 0
+          }
+        },
+        "personal_preferences": {
+          "privacy_settings": {
+            "hide_location": false,
+            "hide_age": false
+          },
+          "notification_preferences": "email"
+        },
+        "social_media_integration": {
+          "facebook_likes": ["Rio Carnival", "Visit Brazil"],
+          "twitter_interests": ["#eventplanning", "#Brazil"],
+          "instagram_preferences": ["cultural events", "beach photos"]
+        }
+      }
+    ]
+  }
+  
+  
+  
