@@ -1,6 +1,6 @@
 # SoulMegal
 
-SoulMegal is a unique web application that connects users based on shared interests, preferences, and past interactions. It aims to facilitate meaningful conversations and foster connections between like-minded individuals.
+SoulMegal is a unique application that connects users based on shared interests, preferences, and past interactions. It aims to facilitate meaningful conversations and foster connections between like-minded individuals.
 
 ## 📌 Features
 
@@ -37,6 +37,23 @@ SoulMegal is a unique web application that connects users based on shared intere
   - Facebook Likes 👍📘
   - Twitter Interests #️⃣🐦
   - Instagram Preferences 📷📹📸
+
+## 🚀 Getting Started
+
+To get started with SoulMegal, follow these steps:
+1. Clone the repository.
+```bash
+  git clone https://github.com/KinhaNisha/Internship-project-Systemic-Altruism.git
+```
+2. Install dependencies.
+```bash
+  pip install numpy flask scikit-learn
+```
+3. Run the application.
+
+```bash
+  python .\app.py
+```
 
 ## 📝 Usage
 
