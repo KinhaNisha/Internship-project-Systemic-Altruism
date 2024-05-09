@@ -1,6 +1,6 @@
 # SoulMegal
 
-SoulMegal is a unique wev application that connects users based on shared interests, preferences, and past interactions. It aims to facilitate meaningful conversations and foster connections between like-minded individuals.
+SoulMegal is a unique web application that connects users based on shared interests, preferences, and past interactions. It aims to facilitate meaningful conversations and foster connections between like-minded individuals.
 
 ## 📌 Features
 
